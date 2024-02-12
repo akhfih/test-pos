@@ -30,7 +30,6 @@ function urutkanHuruf(data) {
     return result;
 }
 
-// Contoh penggunaan fungsi:
 console.log(urutkanHuruf(["Abc", "bCd"]));  
 console.log(urutkanHuruf(["Oke", "One"]));  
 console.log(urutkanHuruf(["Pendanaan", "Terproteksi", "Untuk", "Dampak", "Berarti"])); 
